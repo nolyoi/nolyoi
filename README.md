@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🇺🇸 Freelance software engineer from Northwest, Indiana.  
+⛏ Currently working on: L&M Distribution and Logistics  
+🤝 ***Available*** for hire!  
+💻 https://nolanm.dev/  
+📫 n.mayersky[at]hey.com  
+
+[![Nolyoi's github stats](https://github-readme-stats.vercel.app/api?username=nolyoi&hide=stars&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolyoi&layout=compact&hide=html&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **nolyoi/nolyoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
