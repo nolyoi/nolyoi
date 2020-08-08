@@ -3,7 +3,7 @@
 🇺🇸 Freelance software engineer from Northwest, Indiana.  
 ⛏ Currently working on: L&M Distribution and Logistics  
 🤝 ***Available*** for hire!  
-🏷 Favorite Languages: Ruby, Crystal, and Rust  
+🏷 Favorite Languages: Ruby, Crystal, Python, and Rust  
 💻 <https://nolanm.dev/>  
 📫 E-mail: n.mayersky[at]hey.com  
 
