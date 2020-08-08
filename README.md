@@ -7,7 +7,7 @@
 💻 <https://nolanm.dev/>  
 📫 E-mail: n.mayersky[at]hey.com  
 
-[![Nolyoi's github stats](https://github-readme-stats.vercel.app/api?username=nolyoi&hide=stars&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Nolyoi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nolyoi&hide=stars&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolyoi&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
