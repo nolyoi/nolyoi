@@ -6,8 +6,8 @@
 💻 https://nolanm.dev/  
 📫 n.mayersky[at]hey.com  
 
-[![Nolyoi's github stats](https://github-readme-stats.vercel.app/api?username=nolyoi&hide=stars&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolyoi&layout=compact&hide=html&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Nolyoi's github stats](https://github-readme-stats.vercel.app/api?username=nolyoi&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolyoi&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
