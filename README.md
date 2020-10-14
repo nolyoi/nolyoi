@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🇺🇸 Freelance software engineer from Northwest, Indiana.  
-⛏ Currently working on: L&M Distribution and Logistics  
+⛏ Currently working on: Skica.me (Android/iOS app and website)
 🤝 ***Available*** for hire!  
 🏷 Favorite Languages: Ruby, Crystal, Python, and JavaScript  
 💻 <https://nolanm.dev/>  
