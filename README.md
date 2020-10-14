@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 🇺🇸 Freelance software engineer from Northwest, Indiana.  
-⛏ **Working on:** Skica.me (Android/iOS app and website)
-🤝 ***Currently AVAILABLE*** for hire!  
+⛏ **Working on:** Skica.me (Android/iOS app + server mgmt + website)
+🤝 ***Currently AVAILABLE*** for hire!
 🎨 **Favorite Languages:** Ruby, Crystal, Python, Elixir, and Dart.
-💻 **Blog/Portfolio:** <https://nolanm.dev/>  
-📫 **E-mail:** n.mayersky[at]hey.com  
+💻 **Blog/Portfolio:** <https://nolanm.dev/>
+📫 **E-mail:** n.mayersky[at]hey.com
 
 [![nolyoi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nolyoi&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolyoi&layout=compact&theme=vue&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
