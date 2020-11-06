@@ -6,7 +6,7 @@
 💻 **Blog/Portfolio:** <https://nolanm.dev/><br/>
 📫 **E-mail:** n.mayersky[at]hey.com <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolyoi&layout=compact&theme=vue&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) [![nolyoi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nolyoi&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Nolyoi's github stats](https://github-readme-stats.vercel.app/api?username=nolyoi&show_icons=true&theme=vue&line_height=20)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolyoi&layout=compact&theme=vue&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) [![nolyoi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nolyoi&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Nolyoi's github stats](https://github-readme-stats.vercel.app/api?username=nolyoi&show_icons=true&theme=vue&line_height=20)
 
 
 <!--
