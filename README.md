@@ -1,4 +1,4 @@
-### 👋 Hello, friend!
+### 👋 Hello, world!
 🇺🇸 Freelance software engineer from Northwest, Indiana.  <br/>
 ⛏ **Working on:** Skica.me (Android/iOS app + server mgmt + website)<br/>
 🤝 ***Currently AVAILABLE*** for hire!<br/>
