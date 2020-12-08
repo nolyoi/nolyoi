@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, world! </h1>
 <hr>
-## 🧐 About Me
+##🧐 About Me
 🇺🇸 Freelance software engineer from Northwest, Indiana.  <br/>
 ⛏ **Working on:** Skica.me (Android/iOS app + server mgmt + website)<br/>
 🤝 ***Currently AVAILABLE*** for hire!<br/>
