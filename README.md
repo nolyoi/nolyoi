@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hello, world! </h1>
-<hr>
 
 ## 🧐 About Me
 🇺🇸 Freelance software engineer from Northwest, Indiana.  <br/>
