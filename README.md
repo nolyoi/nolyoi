@@ -4,7 +4,7 @@
 🇺🇸 Freelance software engineer from Northwest, Indiana.  <br/>
 ⛏ **Working on:** Skica.me (Android/iOS app + server mgmt + website)<br/>
 🤝 ***Currently AVAILABLE*** for hire!<br/>
-🎨 **Favorite Languages:** Ruby, Crystal, Python, Elixir, and Dart.<br/>
+🎨 **Favorite Languages:** Ruby, Crystal, Python, and Dart.<br/>
 💻 **Blog/Portfolio:** <https://nolanm.dev/><br/>
 📫 **E-mail:** n.mayersky[at]hey.com <br/>
 
