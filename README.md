@@ -2,7 +2,7 @@
 
 ## 🧐 About Me
 🇺🇸 Freelance software engineer from Northwest, Indiana.  <br/>
-⛏ **Working on:** Skica.me (Android/iOS app + server mgmt + website)<br/>
+⛏ **Working on:** Skica.me (Android/iOS app), Solar CRM (Ruby, Python), CattleFinder (Crystal, Lucky)<br/>
 🤝 ***Currently UNAVAILABLE*** for hire!<br/>
 🎨 **Favorite Languages:** Ruby, Crystal, Python, and Dart.<br/>
 💻 **Blog/Portfolio:** <https://nolanm.dev/><br/>
