@@ -9,8 +9,10 @@
 📫  **E-mail:** n.mayersky[at]hey.com <br/>
 
 ## 📊 Fun Github Data
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nolyoi&theme=github)
+[![](https://raw.githubusercontent.com/nolyoi/nolyoi/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nolyoi/nolyoi/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nolyoi/nolyoi/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+![](https://komarev.com/ghpvc/?username=noloiy&color=green)
 <!--
 **nolyoi/nolyoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
