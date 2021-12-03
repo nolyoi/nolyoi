@@ -9,7 +9,7 @@
 📫  **E-mail:** n.mayersky[at]hey.com <br/>
 
 ## 📊 Fun Github Data
-[![nolyoi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nolyoi&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolyoi&layout=compact&theme=vue&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nolyoi&theme=github)
 
 <!--
 **nolyoi/nolyoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
