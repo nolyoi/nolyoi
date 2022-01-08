@@ -3,10 +3,9 @@
 ## 🧐  About Me
 🇺🇸  Freelance software engineer from Northwest, Indiana.  <br/>
 ⛏  **Working on:** Skica.me (Android/iOS app)<br/>
-🤝  ***Currently AVAILABLE*** for hire!<br/>
 🎨  **Favorite Languages:** Ruby, Crystal, Python, and Dart.<br/>
 💻  **Blog/Portfolio:** <https://nolanm.dev/><br/>
-📫  **E-mail:** n.mayersky[at]hey.com <br/>
+📫  **E-mail:** nolan[at]syslogica.io <br/>
 
 ## 📊 Fun Github Data
 [![](https://raw.githubusercontent.com/nolyoi/nolyoi/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
