@@ -2,7 +2,6 @@
 
 ## 🧐  About Me
 🇺🇸  Freelance software engineer from Northwest, Indiana.  <br/>
-⛏  **Working on:** Skica.me (Android/iOS app)<br/>
 🎨  **Favorite Languages:** Ruby, Crystal, Python, and Dart.<br/>
 💻  **Blog/Portfolio:** <https://nolanm.dev/><br/>
 📫  **E-mail:** nolan[at]syslogica.io <br/>
