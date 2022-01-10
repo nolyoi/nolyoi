@@ -2,7 +2,7 @@
 
 ## 🧐  About Me
 🇺🇸  Freelance software engineer from Northwest, Indiana.  <br/>
-🎨  **Favorite Languages:** Ruby, Crystal, Python, and Dart.<br/>
+🎨  **Favorite Languages:** Crystal, Javascript, Dart, Rust, Ruby<br/>
 💻  **Blog/Portfolio:** <https://nolanm.dev/><br/>
 📫  **E-mail:** nolan[at]syslogica.io <br/>
 
