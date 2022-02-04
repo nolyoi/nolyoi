@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hello, world! </h1>
 
-<h2 align="center">
 [![](https://raw.githubusercontent.com/nolyoi/nolyoi/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nolyoi/nolyoi/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nolyoi/nolyoi/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
@@ -19,4 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</h2>
